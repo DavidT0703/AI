@@ -1,4 +1,4 @@
 # AI
-AI Course Proyects
-Universidad de Monterrey
-David Treviño Camarillo #624996
+AI Course Proyects\n
+Universidad de Monterrey\n
+David Treviño Camarillo #624996\n
